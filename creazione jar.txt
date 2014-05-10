@@ -1,0 +1,4 @@
+spostarsi sulla cartella dove sono presenti i files,
+poi dare il comando:
+
+jar cvfm NomeJar.jar MANIFEST.MF *.class
